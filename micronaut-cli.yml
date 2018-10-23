@@ -1,0 +1,5 @@
+profile: function-aws
+defaultPackage: hello.lambda
+---
+testFramework: junit
+sourceLanguage: kotlin
