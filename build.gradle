@@ -3,9 +3,9 @@ plugins {
     id "com.github.johnrengelman.shadow" version "4.0.0"
     id "de.sebastianboegl.shadow.transformer.log4j" version "2.1.1"
     id "jp.classmethod.aws.lambda" version "0.38"
-    id "org.jetbrains.kotlin.jvm" version "1.2.61"
-    id "org.jetbrains.kotlin.kapt" version "1.2.61"
-    id "org.jetbrains.kotlin.plugin.allopen" version "1.2.61"	
+    id "org.jetbrains.kotlin.jvm" version "1.2.71"
+    id "org.jetbrains.kotlin.kapt" version "1.2.71"
+    id "org.jetbrains.kotlin.plugin.allopen" version "1.2.71"	
 }
 
 apply plugin:"application"
