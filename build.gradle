@@ -37,6 +37,8 @@ dependencies {
     runtime "com.amazonaws:aws-lambda-java-log4j2:1.0.0"
     runtime "org.apache.logging.log4j:log4j-slf4j-impl:2.9.1"
     runtime "com.fasterxml.jackson.module:jackson-module-kotlin:2.9.4.1"
+    runtime "io.micronaut:micronaut-http-server-netty"
+    runtime "io.micronaut:micronaut-function-web"
     testCompile "io.micronaut:micronaut-function-client"
     testCompile "junit:junit:4.12"
     testCompile "io.micronaut:micronaut-inject-java"
